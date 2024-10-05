@@ -26,6 +26,7 @@ function App() {
       setToDo([...toDo, newEntry])
       setNewTask('');
     }
+    
   }
 
   // Delete task 
